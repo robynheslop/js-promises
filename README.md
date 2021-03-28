@@ -1,1 +1,1 @@
-# promises.js
+# Promises in Javascript
